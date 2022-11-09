@@ -1,4 +1,4 @@
-##LC 0034. py file template
+##LC 34. py file template
 
 #Solution
 class Solution:
