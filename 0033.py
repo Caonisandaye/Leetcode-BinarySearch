@@ -18,7 +18,7 @@ class Solution:
                     r = m - 1
             else:
                 pivot = l
-            print(pivot)
+
         l, r = 0, L - 1
         while l <= r:
             m = (l + r) // 2
